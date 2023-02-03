@@ -1,3 +1,7 @@
+## Live demo
+
+Live demo of application is running in: [https://deft-tarsier-f8b7ec.netlify.app/]
+
 ## Available Scripts
 
 At first run npm install in the root directory with command:
