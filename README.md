@@ -1,5 +1,9 @@
 ## Available Scripts
 
+At first run npm install in the root directory with command:
+
+### `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
